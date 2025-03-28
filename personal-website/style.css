@@ -1,0 +1,100 @@
+body{
+  font-family: "Open Sans", sans-serif;
+  margin: 0;
+}
+section{
+  padding-bottom: 500px;
+  height: 150px;
+}
+h2{
+  font-size: 30px;
+}
+h1{
+  font-size: 40px;
+}
+p{
+  color:lightslategray;
+  padding-bottom: 40px;
+}
+span{
+  color: rgb(222, 18, 86);
+}
+.add-1-button{
+  
+  background-color: rgb(222, 18, 86);
+  color: white;
+  text-decoration: none;
+  padding: 10px 10px;
+  border-radius: 5px;
+}
+.half-width{
+  width: 40%;
+  float: left;
+  margin: 2px;
+  padding: 2px;
+}
+.half-width img{
+ width: 100%;
+}
+.heder-background{
+  background-image: url(header-bg.png);
+  background-position: center;
+
+
+}
+.biography02{
+  background-image: url(biography-bg.png);
+  background-position: center;
+}
+.position{
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+.container img{
+  width: 30%;
+  height: auto;
+
+}
+.latest-work{
+  background-image: url(latest-work-bg.png);
+}
+.footer-head{
+  text-align: center;
+}
+.padding-need{
+  text-align: center;
+  padding-top: 50px;
+}
+.color-position{
+  text-align: center;
+  color: lightgray;
+}
+.center{
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+ 
+}
+.massage-box{
+  color: white;
+  background-color: palevioletred;
+  border: 10px;
+}
+.massage-box{
+  background-color: rgb(222, 18, 86);
+  width: 30%;
+  padding:2px;
+  border-radius: 5px;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 20px;
+
+}
+footer{
+  text-align: center;
+  font-size: 10px;
+}
